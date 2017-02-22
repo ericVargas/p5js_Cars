@@ -15,7 +15,7 @@ function setup() {
   for (var i = 0; i < 20; i++) {
     cars[i] = new Car();
   }
-carspeed = random(40)
+carspeed = random(20)
 textSize(32);
 fill(255)
 console.log(sign);
